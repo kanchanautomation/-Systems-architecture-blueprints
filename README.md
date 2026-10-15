@@ -1,5 +1,5 @@
-# MANAGED BY KANCHAN MAURYA - Complex Systems & AI Architect | Making Complex Systems Easier to Understand
-### Deployed Core Deep-Tech Core | Infrastructure Strategy & Systems Architecture Engine
+# Complex Systems & AI Architect | Making Complex Systems Easier to Understand
+### Infrastructure Strategy · Systems Architecture · Deep-Tech R&D
 
 ---
 
