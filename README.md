@@ -1,4 +1,4 @@
-# Complex Systems & AI Architect | Making Complex Systems Easier to Understand
+# COMPLEX SYSTEMS & AI ARCHITECT | Making Complex Systems Easier to Understand
 ### Infrastructure Strategy · Systems Architecture · Deep-Tech R&D
 
 ---
